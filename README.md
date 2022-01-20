@@ -8,4 +8,4 @@ Sinh viên thực hiện:
 |Hoàng Dược Lam|19120267|
 |Trần Mỹ Hân|19120217|
 
-File kết hoạch: https://docs.google.com/spreadsheets/d/1jMZu0TufNVDB4DxQP_OH3JfazbCATXitx7wkN040iEk/edit#gid=1709744959
+File kế hoạch: [Google Sheet] (https://docs.google.com/spreadsheets/d/1jMZu0TufNVDB4DxQP_OH3JfazbCATXitx7wkN040iEk/edit#gid=1709744959)
