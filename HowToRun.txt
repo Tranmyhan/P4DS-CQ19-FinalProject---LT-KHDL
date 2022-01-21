@@ -1,0 +1,6 @@
+Bước 1: Lấy link tải dữ liệu trong file data.txt và tải dữ liệu, sau khi tải xong thì cho dữ liệu vào chung folder với file notebook.
+Bước 2: Mở terminal, di chuyển đến thư mục chứa file notebook bằng câu lệnh cd <đường dẫn>
+Bước 3: Khởi động môi trường bằng câu lệnh conda activate min_ds-env
+Bước 4: Mở jupyter notebook bằng câu lệnh jupyter notebook, lúc này jupyter notebook sẽ khởi động trên trình duyệt với thư mục làm việc là thư mục hiện tại (nếu jupyter notebook không tự bật trên trình duyệt thì copy link được cung cấp trên terminal rồi gán vào trình duyệt)
+Bước 5: Mở file notebook 06_19120217_19120267.ipynb
+Bước 6: Nhấp vào mục Kernel -> nhấp Restart & Run All để chạy.
